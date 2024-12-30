@@ -1,1 +1,26 @@
 /*  your css code here. If applicable */
+.btndiv{
+	margin-left: 20%
+}
+button{
+	padding: 50px;
+	border-radius: 50%;
+}
+.container{
+	border: 3px solid black;
+	border-radius: 20px;
+	padding: 20px;
+	marging-left: 20px;
+}
+.red{
+	background-color: red;
+	border: none;
+}
+.green{
+	background-color: green;
+	border: none;
+}
+.yellow{
+	background-color: yellow;
+	border: none;
+}
